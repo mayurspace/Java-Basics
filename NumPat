@@ -1,0 +1,54 @@
+
+public class NumPat {
+
+    public static  void  main(String args[]){
+
+        Scanner x = new Scanner(System.in);
+
+        int y = x.nextInt();
+
+//        for(int i=1;i<=y;i++){
+//
+//            for(int j=1; j<=i; j++){
+//
+//                System.out.print(j+" ");
+//            }
+//
+//            System.out.println();
+//        }
+
+//        for(int i=y; i>=1; i--){
+//
+//            for(int j=1;j<=i; j++){
+//                System.out.print(j+" ");
+//            }
+//            System.out.println();
+//        }
+//        int m=1;
+//        for(int i=1; i<=y; i++){
+//
+//
+//            for(int j=1; j<=i; j++){
+//
+//                System.out.print(m+" ");
+//                 m+=1;
+//            }
+//            System.out.println();
+//        }
+
+//        for(int i=1; i<=y; i++){
+//
+//            for(int j=1; j<=i; j++){
+//
+//                int s = i+j;
+//
+//                if(s%2 == 0){
+//                    System.out.print(1+" ");
+//                }
+//                else{
+//                    System.out.print(0+" ");
+//                }
+//
+//            }
+//            System.out.println();
+//        }
